@@ -1,0 +1,20 @@
+/*
+-Name: [Rohit Arun]
+-UnityID: [rarun3]
+-Date: [2/18/22]
+-Assignment: [Webpages Independent Assignment]
+-Description: [Creating a webpage using html and style sheet.]
+ */
+
+ body {
+     Background-color:#CC0000;
+ }
+
+ .table-border {
+     border: 2px solid #03E4FF;
+ }
+
+ .photo-border {
+
+     border: 2px solid #21EB55;
+ }
